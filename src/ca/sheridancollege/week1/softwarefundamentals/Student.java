@@ -14,6 +14,7 @@ public class Student {
     private int ID;
     private String name;
     private String phone;
+    private String email;
     
     private String Address;
   
