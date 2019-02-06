@@ -19,7 +19,7 @@ public class Student {
     private String Address;
   
      /**
-     * Get the value of Address
+     * Get Address
      *
      * @return the value of Address
      */
