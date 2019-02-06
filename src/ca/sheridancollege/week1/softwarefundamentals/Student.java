@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author Sergio Paul
+ * @author Sergio Paul123
  */
 public class Student {
 
